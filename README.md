@@ -1,5 +1,5 @@
 # Parking Lot Setup Guide
-1. To run this Parking lot Application for, follow the steps outlined below. Ensure that you have an Integrated Development Environment (IDE) such as Eclipse or IntelliJ installed.
+1. To run this Parking lot Application, follow the steps outlined below. Ensure that you have an Integrated Development Environment (IDE) such as Eclipse or IntelliJ installed.
 
 # Installation and Usage
 1. Clone the repository : https://github.com/saurabhtrigunayat/GreenStitch-Assignment
@@ -11,7 +11,7 @@
 1. Load all project dependencies as specified in the respective pom.xml files.
 
 # Database Configuration (Account Service):
-1. Open the account-service/src/main/resources/application.properties file.
+1. Open the Backend-Assignment/src/main/resources/application.properties file.
 2. Update the database configurations to match your setup.
 3. create database with car_parking_data name in Mysql server.
 
